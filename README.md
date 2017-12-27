@@ -1,2 +1,2 @@
 # turingmachine
-```go run src/turing.go```
+```go run driver.go```
